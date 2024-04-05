@@ -1,0 +1,12 @@
+{
+  "hash": "41770bd8b10d239c3cecf9e7178f2158",
+  "result": {
+    "engine": "jupyter",
+    "markdown": "---\ntitle: Landing page\n---\n\nThis is a Quarto website.\n\nTo learn more about Quarto websites visit <https://quarto.org/docs/websites>.\n\n::: {#46a61794 .cell execution_count=1}\n``` {.julia .cell-code}\nprintln(1 + 2)\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n3\n```\n:::\n:::\n\n\n```{r}\nprint(1 + 2)\n```\n\n```{python}\nprint(1 + 2)\n```\n\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}

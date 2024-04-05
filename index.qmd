@@ -1,7 +1,20 @@
 ---
-title: "dir"
+title: "Landing page"
+jupyter: julia-1.10
 ---
 
 This is a Quarto website.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+```{julia}
+println(1 + 2)
+```
+
+```{r}
+print(1 + 2)
+```
+
+```{python}
+print(1 + 2)
+```
