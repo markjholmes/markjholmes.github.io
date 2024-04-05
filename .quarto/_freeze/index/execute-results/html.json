@@ -1,8 +1,8 @@
 {
-  "hash": "37b942148025cbe523a26936046cfb19",
+  "hash": "416dac07116ba52c5d6cb06b7b2bdab8",
   "result": {
     "engine": "jupyter",
-    "markdown": "---\ntitle: Landing page\ncode-fold: show\n---\n\nThis is a Quarto website.\n\nTo learn more about Quarto websites visit <https://quarto.org/docs/websites>.\n\n- ![Julia demo](julia-demo.qmd)\n- ![R demo](r-demo.qmd)\n\n",
+    "markdown": "---\ntitle: Landing page\ncode-fold: show\ndate: today\n---\n\nThis is a Quarto website.\n\nTo learn more about Quarto websites visit <https://quarto.org/docs/websites>.\n\n- [Julia demo](julia-demo.qmd)\n- [R demo](r-demo.qmd)\n\n",
     "supporting": [
       "index_files"
     ],

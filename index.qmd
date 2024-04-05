@@ -9,6 +9,6 @@ This is a Quarto website.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
-- ![Julia demo](julia-demo.qmd)
-- ![R demo](r-demo.qmd)
+- [Julia demo](julia-demo.qmd)
+- [R demo](r-demo.qmd)
 
