@@ -1,0 +1,14 @@
+---
+title: "Julia test page"
+jupyter: julia-1.10
+code-fold: show
+---
+
+```{julia}
+println(1 + 2)
+```
+
+```{julia}
+using Plots;
+scatter(rand(5), rand(5))
+```

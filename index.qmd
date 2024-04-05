@@ -1,20 +1,14 @@
 ---
 title: "Landing page"
 jupyter: julia-1.10
+code-fold: show
+date: today
 ---
 
 This is a Quarto website.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
-```{julia}
-println(1 + 2)
-```
+- ![Julia demo](julia-demo.qmd)
+- ![R demo](r-demo.qmd)
 
-```{r}
-print(1 + 2)
-```
-
-```{python}
-print(1 + 2)
-```

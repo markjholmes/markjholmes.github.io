@@ -4,5 +4,11 @@
   },
   "index.qmd": {
     "index.html": "79aa8808"
+  },
+  "julia-demo.qmd": {
+    "julia-demo.html": "be050ea3"
+  },
+  "r-demo.qmd": {
+    "r-demo.html": "6b9cec6e"
   }
 }
