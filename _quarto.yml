@@ -13,7 +13,7 @@ website:
 format:
   html:
     theme: 
-      dark: slate
+      dark: solar
       light: sandstone
     css: styles.css
     toc: true
