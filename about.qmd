@@ -2,4 +2,11 @@
 title: "About"
 ---
 
-About this site
+Find my pubished articles [here](articles.qmd).
+
+Find my projects [here](https://github.com/markjholmes).
+
+See demos below:
+
+- [Julia demo](julia-demo.qmd)
+- [R demo](r-demo.qmd)
