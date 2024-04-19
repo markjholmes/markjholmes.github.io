@@ -8,13 +8,21 @@ I am still figuring out what this page is.
 
 :::
 
-See what I'm interested in [here](about.qmd)
+# About me
+
+See what I'm interested in [here](about.qmd).
+
+# Publications
 
 Find my pubished articles [here](articles.qmd).
 
+# GitHub
+
 Find my ongoing projects on GitHub [here](https://github.com/markjholmes).
 
-See who I've collaborated with [here](collaborators.qmd)
+# Collaborators
+
+See who I've collaborated with [here](collaborators.qmd).
 
 ---
 

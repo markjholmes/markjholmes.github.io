@@ -3,7 +3,7 @@ title: "About"
 date: today
 ---
 
-:::{.callout-tip title="About me"}
+# About me
 
 I recently finished my PhD at the University of Namur in the lab of [Frederik de Laender](https://eccology.eu/) and am now off to Bilbao to work with [Daniel Montoya](https://danielmontoyalab.com/) BC3. 
 
@@ -17,12 +17,18 @@ I have worked on:
 - Modelling the effects of trait evolution on community stability
 - Other stuff that I will put here when I am more organised and have a better plan about this website
 
-:::
+# Contact
 
-Find my pubished articles [here](articles.qmd).
+- [X/Twitter](https://twitter.com/sciencey_mark)
+- [email](mailto:mark.j.holmes.95@gmail.com)
+
+# Publications
+
+Find pdfs of my pubished articles [here](articles.qmd) and [check my ORCID](https://orcid.org/0000-0002-0273-0483).
+
+# GitHub
 
 Find my ongoing projects [here](https://github.com/markjholmes).
-
 
 ::: {.callout-warning collapse="true" title="Code demos"}
 

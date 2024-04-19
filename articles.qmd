@@ -5,5 +5,5 @@ date: today
 
 # Published articles
 
-- [Marine protected areas modulate habitat suitability of the invasive round goby (Neogobius melanostomus) in the Baltic Sea](articles/Holmes%20et%20al_2019_Marine%20protected%20areas%20modulate%20habitat%20suitability%20of%20the%20invasive%20round%20goby.pdf)
-- [Stressor richness intensifies productivity loss but mitigates biodiversity loss](articles/Holmes%20et%20al_2021_Stressor%20richness%20intensifies%20productivity%20loss%20but%20mitigates%20biodiversity%20loss.pdf)
+- [2019, Marine protected areas modulate habitat suitability of the invasive round goby (Neogobius melanostomus) in the Baltic Sea](articles/Holmes%20et%20al_2019_Marine%20protected%20areas%20modulate%20habitat%20suitability%20of%20the%20invasive%20round%20goby.pdf)
+- [2021, Stressor richness intensifies productivity loss but mitigates biodiversity loss](articles/Holmes%20et%20al_2021_Stressor%20richness%20intensifies%20productivity%20loss%20but%20mitigates%20biodiversity%20loss.pdf)
