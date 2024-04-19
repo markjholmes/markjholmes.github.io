@@ -5,10 +5,21 @@ code-fold: show
 date: today
 ---
 
-This is a Quarto website.
+:::{.callout-warning title="UNDER CONSTRUCTION"}
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I am still figuring out what this page is.
+
+:::
+
+Find my pubished articles [here](articles.qmd).
+
+Find my projects [here](https://github.com/markjholmes).
+
+See demos below:
 
 - [Julia demo](julia-demo.qmd)
 - [R demo](r-demo.qmd)
 
+---
+
+Website constructed using [Quarto](https://quarto.org/docs/websites) and [GitHub pages](https://pages.github.com/).
