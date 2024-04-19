@@ -5,5 +5,20 @@ date: today
 
 # Published articles
 
-- [2019, Marine protected areas modulate habitat suitability of the invasive round goby (Neogobius melanostomus) in the Baltic Sea](articles/Holmes%20et%20al_2019_Marine%20protected%20areas%20modulate%20habitat%20suitability%20of%20the%20invasive%20round%20goby.pdf)
-- [2021, Stressor richness intensifies productivity loss but mitigates biodiversity loss](articles/Holmes%20et%20al_2021_Stressor%20richness%20intensifies%20productivity%20loss%20but%20mitigates%20biodiversity%20loss.pdf)
+## First author
+
+Here I include pdfs of my first-author articles.
+
+| Year | Title | Keywords |
+| --- | --- | --- |
+| 2019 | [Marine protected areas modulate habitat suitability of the invasive round goby (Neogobius melanostomus) in the Baltic Sea](articles/Holmes%20et%20al_2019_Marine%20protected%20areas%20modulate%20habitat%20suitability%20of%20the%20invasive%20round%20goby.pdf) | Baltic Sea, invasive species, MaxEnt, protected areas |
+| 2021 | [Stressor richness intensifies productivity loss but mitigates biodiversity loss](articles/Holmes%20et%20al_2021_Stressor%20richness%20intensifies%20productivity%20loss%20but%20mitigates%20biodiversity%20loss.pdf) | community ecology, ecosystems, multiple stressors, theoretical ecology, traits |
+
+## Other
+
+For non-first author, I include the doi.
+
+| Year | Title | Keywords | First author |
+| --- | --- | --- |  --- |
+| 2023 | [Predicting effects of multiple interacting global change drivers across trophic levels](https://doi.org/10.1111/gcb.16548) | consumer–resource model, global change, multiple stressors, reaction norms, species interactions, thermal performance curves |  Sofia van Moorsel |
+| 2021 | [cyanoFilter](https://doi.org/10.1016/j.ecolmodel.2021.109743) | flow cytometry, phytoplankton, gating, software, ecology |  Oluwafemi Olusoji |
