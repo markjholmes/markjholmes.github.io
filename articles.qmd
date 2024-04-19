@@ -16,9 +16,9 @@ Here I include pdfs of my first-author articles.
 
 ## Other
 
-For non-first author, I include the doi.
+For non-first author, I include the DOI.
 
 | Year | Title | Keywords | First author |
 | --- | --- | --- |  --- |
 | 2023 | [Predicting effects of multiple interacting global change drivers across trophic levels](https://doi.org/10.1111/gcb.16548) | consumer–resource model, global change, multiple stressors, reaction norms, species interactions, thermal performance curves |  Sofia van Moorsel |
-| 2021 | [cyanoFilter](https://doi.org/10.1016/j.ecolmodel.2021.109743) | flow cytometry, phytoplankton, gating, software, ecology |  Oluwafemi Olusoji |
+| 2021 | [cyanoFilter](https://doi.org/10.1016/j.ecolmodel.2021.109743) | flow cytometry, phytoplankton, gating, software, ecology | Oluwafemi Olusoji |

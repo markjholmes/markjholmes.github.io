@@ -24,7 +24,7 @@ I have worked on:
 
 # Publications
 
-Find pdfs of my pubished articles [here](articles.qmd) and [check my ORCID](https://orcid.org/0000-0002-0273-0483).
+Find pdfs of my pubished articles [here](articles.qmd) or on [ResearchGate](https://www.researchgate.net/profile/Mark-Holmes-10) or [ORCID](https://orcid.org/0000-0002-0273-0483).
 
 # GitHub
 
