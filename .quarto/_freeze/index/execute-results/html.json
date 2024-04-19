@@ -1,8 +1,8 @@
 {
-  "hash": "416dac07116ba52c5d6cb06b7b2bdab8",
+  "hash": "6392436fd93c1aa8e515c1710c681a5b",
   "result": {
     "engine": "jupyter",
-    "markdown": "---\ntitle: Landing page\ncode-fold: show\ndate: today\n---\n\nThis is a Quarto website.\n\nTo learn more about Quarto websites visit <https://quarto.org/docs/websites>.\n\n- [Julia demo](julia-demo.qmd)\n- [R demo](r-demo.qmd)\n\n",
+    "markdown": "---\ntitle: Landing page\ncode-fold: show\ndate: today\n---\n\n:::{.callout-warning title=\"UNDER CONSTRUCTION\"}\n\nI am still figuring out what this page is.\n\n:::\n\nFind my pubished articles [here](articles.qmd).\n\nFind my projects [here](https://github.com/markjholmes).\n\nSee demos below:\n\n- [Julia demo](julia-demo.qmd)\n- [R demo](r-demo.qmd)\n\n---\n\nWebsite constructed using [Quarto](https://quarto.org/docs/websites) and [GitHub pages](https://pages.github.com/).\n\n",
     "supporting": [
       "index_files"
     ],

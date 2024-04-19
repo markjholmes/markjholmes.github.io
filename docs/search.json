@@ -11,14 +11,21 @@
     "href": "index.html",
     "title": "Landing page",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\nJulia demo\nR demo"
+    "text": "UNDER CONSTRUCTION\n\n\n\nI am still figuring out what this page is.\n\n\nFind my pubished articles here.\nFind my projects here.\nSee demos below:\n\nJulia demo\nR demo\n\n\nWebsite constructed using Quarto and GitHub pages."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site"
+    "text": "Find my pubished articles here.\nFind my projects here.\nSee demos below:\n\nJulia demo\nR demo"
+  },
+  {
+    "objectID": "articles.html",
+    "href": "articles.html",
+    "title": "Articles",
+    "section": "",
+    "text": "Marine protected areas modulate habitat suitability of the invasive round goby (Neogobius melanostomus) in the Baltic Sea\nStressor richness intensifies productivity loss but mitigates biodiversity loss"
   },
   {
     "objectID": "julia-demo.html",
