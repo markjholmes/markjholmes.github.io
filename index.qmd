@@ -1,7 +1,4 @@
 ---
-title: "Landing page"
-jupyter: julia-1.10
-code-fold: show
 date: today
 ---
 
@@ -11,15 +8,14 @@ I am still figuring out what this page is.
 
 :::
 
+See what I'm interested in [here](about.qmd)
+
 Find my pubished articles [here](articles.qmd).
 
-Find my projects [here](https://github.com/markjholmes).
+Find my ongoing projects on GitHub [here](https://github.com/markjholmes).
 
-See demos below:
-
-- [Julia demo](julia-demo.qmd)
-- [R demo](r-demo.qmd)
+See who I've collaborated with [here](collaborators.qmd)
 
 ---
 
-Website constructed using [Quarto](https://quarto.org/docs/websites) and [GitHub pages](https://pages.github.com/).
+Website constructed using [Quarto](https://quarto.org/docs/websites) and [GitHub pages](https://pages.github.com/). The [quarto tutorial for making your own](https://quarto.org/docs/publishing/github-pages.html) is pretty great.

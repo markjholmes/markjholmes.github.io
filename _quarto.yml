@@ -6,9 +6,9 @@ website:
   title: "Mark Holmes"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
       - about.qmd
+      - articles.qmd
+      - collaborators.qmd
 
 format:
   html:

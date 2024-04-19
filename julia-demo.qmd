@@ -2,6 +2,7 @@
 title: "Julia test page"
 jupyter: julia-1.10
 code-fold: show
+date: today
 ---
 
 ```{julia}

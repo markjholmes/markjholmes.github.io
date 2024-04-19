@@ -1,12 +1,36 @@
 ---
 title: "About"
+date: today
 ---
+
+:::{.callout-tip title="About me"}
+
+I recently finished my PhD at the University of Namur in the lab of [Frederik de Laender](https://eccology.eu/) and am now off to Bilbao to work with [Daniel Montoya](https://danielmontoyalab.com/) BC3. 
+
+I have worked on:
+
+- Modelling the habitat suitability of an invasive fish species in the Baltic Sea
+- Modelling the effects of stressors on competitive communities
+- Experiments on phytoplankton communities
+- Clustering of phytoplankton species using flow cytometry
+- Identification of phytoplankon in rivers with microscopy
+- Modelling the effects of trait evolution on community stability
+- Other stuff that I will put here when I am more organised and have a better plan about this website
+
+:::
 
 Find my pubished articles [here](articles.qmd).
 
-Find my projects [here](https://github.com/markjholmes).
+Find my ongoing projects [here](https://github.com/markjholmes).
 
-See demos below:
+
+::: {.callout-warning collapse="true" title="Code demos"}
+
+Warning: these do nothing yet I am still figuring out websites.
+
+Some demos below:
 
 - [Julia demo](julia-demo.qmd)
 - [R demo](r-demo.qmd)
+
+:::

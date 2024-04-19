@@ -1,0 +1,9 @@
+---
+title: Collaborators
+date: today
+---
+
+- [Frederik de Laender](https://eccology.eu/)
+- [Jurg Spaak](https://jwspaak.com/)
+- [Sofia van Moorsel](https://sofiavanmoorsel.com/en)
+- [Daniel Montoya](https://danielmontoyalab.com/)

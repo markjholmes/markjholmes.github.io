@@ -9,23 +9,30 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Landing page",
+    "title": "Mark Holmes",
     "section": "",
-    "text": "UNDER CONSTRUCTION\n\n\n\nI am still figuring out what this page is.\n\n\nFind my pubished articles here.\nFind my projects here.\nSee demos below:\n\nJulia demo\nR demo\n\n\nWebsite constructed using Quarto and GitHub pages."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "Find my pubished articles here.\nFind my projects here.\nSee demos below:\n\nJulia demo\nR demo"
+    "text": "UNDER CONSTRUCTION\n\n\n\nI am still figuring out what this page is.\n\n\nSee what I’m interested in here\nFind my pubished articles here.\nFind my ongoing projects on GitHub here.\nSee who I’ve collaborated with here\n\nWebsite constructed using Quarto and GitHub pages. The quarto tutorial for making your own is pretty great."
   },
   {
     "objectID": "articles.html",
     "href": "articles.html",
     "title": "Articles",
     "section": "",
-    "text": "Marine protected areas modulate habitat suitability of the invasive round goby (Neogobius melanostomus) in the Baltic Sea\nStressor richness intensifies productivity loss but mitigates biodiversity loss"
+    "text": "Published articles\n\nMarine protected areas modulate habitat suitability of the invasive round goby (Neogobius melanostomus) in the Baltic Sea\nStressor richness intensifies productivity loss but mitigates biodiversity loss"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About me\n\n\n\nI recently finished my PhD at the University of Namur in the lab of Frederik de Laender and am now off to Bilbao to work with Daniel Montoya BC3.\nI have worked on:\n\nModelling the habitat suitability of an invasive fish species in the Baltic Sea\nModelling the effects of stressors on competitive communities\nExperiments on phytoplankton communities\nClustering of phytoplankton species using flow cytometry\nIdentification of phytoplankon in rivers with microscopy\nModelling the effects of trait evolution on community stability\nOther stuff that I will put here when I am more organised and have a better plan about this website\n\n\n\nFind my pubished articles here.\nFind my ongoing projects here.\n\n\n\n\n\n\nCode demos\n\n\n\n\n\nWarning: these do nothing yet I am still figuring out websites.\nSome demos below:\n\nJulia demo\nR demo"
+  },
+  {
+    "objectID": "collaborators.html",
+    "href": "collaborators.html",
+    "title": "Collaborators",
+    "section": "",
+    "text": "Frederik de Laender\nJurg Spaak\nSofia van Moorsel\nDaniel Montoya"
   },
   {
     "objectID": "julia-demo.html",
