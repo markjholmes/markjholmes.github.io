@@ -5,7 +5,7 @@ date: today
 
 # About me
 
-I recently finished my PhD at the University of Namur in the lab of [Frederik de Laender](https://eccology.eu/) and am now off to Bilbao to work with [Daniel Montoya](https://danielmontoyalab.com/) BC3. 
+I recently finished my PhD at the University of Namur in the lab of [Frederik de Laender](https://eccology.eu/) and am now off to Bilbao to work with [Daniel Montoya](https://danielmontoyalab.com/) at BC3. 
 
 I have worked on:
 

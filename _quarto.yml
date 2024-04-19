@@ -12,7 +12,9 @@ website:
 
 format:
   html:
-    theme: darkly
+    theme: 
+      dark: slate
+      light: sandstone
     css: styles.css
     toc: true
 
