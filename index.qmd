@@ -1,7 +1,3 @@
----
-date: today
----
-
 :::{.callout-warning title="UNDER CONSTRUCTION"}
 
 I am still figuring out what this page is.

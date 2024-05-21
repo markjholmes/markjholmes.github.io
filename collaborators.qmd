@@ -1,6 +1,5 @@
 ---
 title: Collaborators
-date: today
 ---
 
 - [Frederik de Laender](https://eccology.eu/)

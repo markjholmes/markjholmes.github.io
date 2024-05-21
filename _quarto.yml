@@ -9,6 +9,7 @@ website:
       - about.qmd
       - articles.qmd
       - collaborators.qmd
+      - beeg-brain.qmd
 
 format:
   html:
@@ -21,3 +22,9 @@ format:
 author: 
   - name: Mark Holmes
     email: mark.j.holmes.95@gmail.com
+
+execute: 
+  cache: true
+
+date: today
+code-fold: show

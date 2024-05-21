@@ -1,6 +1,5 @@
 ---
 title: "About"
-date: today
 ---
 
 # About me
