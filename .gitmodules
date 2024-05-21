@@ -1,0 +1,3 @@
+[submodule "beeg-brain"]
+	path = beeg-brain
+	url = https://github.com/markjholmes/beeg-brain
