@@ -8,6 +8,41 @@ println(1 + 2)
 ```
 
 ```{julia}
-using Plots;
-scatter(rand(5), rand(5))
+using GLMakie, LaTeXStrings
+
+function logistic_map(x, r)
+    return r * x * (1.0 - x)
+end
+
+function simulate!(out, r, x0)
+    out[1] = x0
+    for i in 2:length(out)
+        out[i] = logistic_map(out[i-1], r)
+    end
+    return out
+end
+
+tsteps = 100
+out = Vector{Float64}(undef, tsteps + 1)
+
+begin
+    f = Figure()
+    
+    Axis(f[1, 1], limits = (0, tsteps + 1, -0.05, 1.05), xlabel = "Time", ylabel = "x")
+
+    sg = SliderGrid(
+        f[2, 1],
+        (label = L"x_0", range = LinRange(0, 1, 201), format = "{:.2f}", startvalue = 0.1),
+        (label = L"r", range = LinRange(0, 5, 201), format = "{:.2f}", startvalue = 1.0))
+
+    x0_obs, r_obs = [s.value for s in sg.sliders]
+
+    trajectory = lift(x0_obs, r_obs) do x0, r
+        simulate!(out, r, x0)
+    end
+
+    lines!(trajectory)
+
+    f    
+end
 ```
